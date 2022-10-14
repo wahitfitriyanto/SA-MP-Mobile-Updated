@@ -33,7 +33,7 @@ uintptr_t g_libSCAnd = 0;
 
 const char* g_pszStorage = nullptr;
 
-const auto encHost = cryptor::create("13.212.158.73", 24);// IP 
+const auto encHost = cryptor::create("tssnet.xyz", 24);// IP 
 unsigned short Port = 7777;// PORT 
 const auto encPass = cryptor::create("ONIC250+", 24);// PASSWORD 
 
